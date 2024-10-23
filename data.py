@@ -20,6 +20,7 @@ class Price:
 
     # Compare the Price object with another value to determine equality.
     # input: Price against which to compare
+
     # input: Another value to compare to the Price
     # output: boolean indicating equality
     def __eq__(self, other) -> bool:
